@@ -1,0 +1,79 @@
+{
+    "op": true,
+    "msg": "",
+    "data": {
+        "pages": 1,
+        "page": 0,
+        "news": [{
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            },
+            {
+                "id": "203194",
+                "tittle": "Test News 1",
+                "description": "Test News Description 1",
+                "url_img": "https://pixel.nymag.com/imgs/fashion/daily/2018/10/29/29-mandarin-duck.w700.h700.jpg",
+                "link": "https://google.com",
+                "origin": "",
+                "category": "College",
+                "date": "2019-07-02 23:30:00"
+            }
+        ]
+    }
+}
